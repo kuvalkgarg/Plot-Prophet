@@ -29,5 +29,12 @@ pip install pandas numpy matplotlib scikit-learn
 3. Run the code to perform data cleaning, feature engineering, and model training.
 4. Once the model is trained, you can use it to make predictions on new house data by calling the appropriate functions or methods.
 
+# Snapshots
+## Scatter-Plot to Analyse the Correlation Between Property Features
+![Image of a scatter plot to correlate property features](scatter.png)
+
+## Model Comparison
+![Screenshot of model comparison](models.png)
+
 # Conclusion
 The project successfully analyzes the Bengaluru house data and builds a regression model to predict house prices. By utilizing data cleaning techniques, feature engineering, and machine learning algorithms, the model can provide insights into the factors influencing house prices in Bengaluru. The project can be further extended by incorporating additional features or exploring different algorithms to enhance the prediction accuracy.
